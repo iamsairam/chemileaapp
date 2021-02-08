@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+  <g id="Group_16076" data-name="Group 16076" transform="translate(-1140 -923)">
+    <g id="magnifying-glass" transform="translate(1154.999 938)">
+      <path id="Path_9468" data-name="Path 9468" d="M30.762,29.586l-4.81-4.81a8.425,8.425,0,1,0-1.18,1.18l4.81,4.806a.833.833,0,1,0,1.18-1.176Zm-11.331-3.4a6.755,6.755,0,1,1,6.757-6.753A6.762,6.762,0,0,1,19.432,26.185Z" transform="translate(-11 -11)" fill="#fff"/>
+    </g>
+    <circle id="Ellipse_38" data-name="Ellipse 38" cx="25" cy="25" r="25" transform="translate(1140 923)" fill="#fff" opacity="0.296"/>
+  </g>
+</svg>
